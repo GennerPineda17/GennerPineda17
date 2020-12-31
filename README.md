@@ -1,5 +1,7 @@
-### Hi there 👋
-I'm a student of mathematics and computer science and a passionated for machine learning, data analysis
+### Hi everyone 👋
+I'm a student of mathematics and computer science of UNAL in Colombia, I'm currently learning about data analysis, machine learning
+I expect to learn a lot of things here.
+
 <!--
 **GennerPineda17/GennerPineda17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
